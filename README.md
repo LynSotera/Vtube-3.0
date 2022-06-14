@@ -1,20 +1,7 @@
-# vtube3
+# Vtube 3
 
-Why not?
+This Project is a 3.0 version of the phenomenal Vtube. Actually this project would be Vtube 2.0, but recently Vtube already changed into Vtube 2.0, so i change it into Vtube 3.0
 
-## Getting Started
+# WIP
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-# Help me please.
-
-The problem is in the /lib/auth/confirm_phone_number.dart
+this project is WIP and probably would be finished a year later, why? idk. i'm suck at mobile programming.
